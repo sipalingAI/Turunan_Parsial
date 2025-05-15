@@ -1,0 +1,2 @@
+# Turunan_Parsial
+
